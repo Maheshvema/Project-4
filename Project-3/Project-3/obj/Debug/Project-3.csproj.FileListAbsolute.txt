@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\bin\Debug\Project-3.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\bin\Debug\Project-3.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\bin\Debug\Project-3.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\obj\Debug\Project-3.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\obj\Debug\Project-3.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\obj\Debug\Project-3.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project-3\Project-3\Project-3\obj\Debug\Project-3.pdb
